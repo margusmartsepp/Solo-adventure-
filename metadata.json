@@ -1,0 +1,5 @@
+{
+  "name": "D&D 5e Multi-Agent Game",
+  "description": "An immersive Dungeons & Dragons 5th Edition experience powered by a multi-agent AI system, featuring role-based information, turn-based combat, and AI-generated narrative and visuals.",
+  "requestFramePermissions": []
+}
